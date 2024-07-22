@@ -50,7 +50,15 @@ Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
 
 
 What is the first NS name server of adlp-corp.com?
-Your response Your command
+
+
+:
+
+ns-1185.awsdns-20.org
+ns-1997.awsdns-57.co.uk
+ns-269.awsdns-33.com
+ns-588.awsdns-09.net
+
 
 Uses a brute force tool to find subdomains of adlp-corp.com. How many did you find?
 Your response Your command
