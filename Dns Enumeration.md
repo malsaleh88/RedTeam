@@ -27,7 +27,27 @@ Priority	Hostname	IP Address	TTL	Provider
 
 
 What are the MX records of adlp-corp.com ?
-Your response Your command
+
+
+mx:adlp-corp.com     
+Pref	Hostname	IP Address	TTL	
+1	aspmx.l.google.com	172.253.115.26
+Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
+1	aspmx.l.google.com	2607:f8b0:4004:c1d::1a	5 min	Blacklist Check
+5	alt1.aspmx.l.google.com	209.85.202.26
+Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
+5	alt1.aspmx.l.google.com	2a00:1450:400b:c00::1b	5 min	Blacklist Check
+5	alt2.aspmx.l.google.com	64.233.184.27
+Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
+5	alt2.aspmx.l.google.com	2a00:1450:400c:c0b::1a	5 min	Blacklist Check
+10	alt3.aspmx.l.google.com	142.250.27.26
+Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
+10	alt3.aspmx.l.google.com	2a00:1450:4025:401::1b	5 min	Blacklist Check
+10	alt4.aspmx.l.google.com	142.250.153.26
+Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
+10	alt4.aspmx.l.google.com	2a00:1450:4013:c16::1b	5 min	Blacklist Chec
+
+
 
 What is the first NS name server of adlp-corp.com?
 Your response Your command
