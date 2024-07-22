@@ -3,7 +3,10 @@ What is the ip address of adlp-corp.com ?
 IP Address	52.51.133.160 is hosted on a dedicated server
 
 What is the TXT record of adlp-corp.com?
-Your response Your command
+
+
+BC{DESCRIPTIVE-DOMAIN-TXT}
+
 
 What are the MX records of becode.org ?
 Your response Your command
