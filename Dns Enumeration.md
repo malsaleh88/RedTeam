@@ -61,7 +61,16 @@ ns-588.awsdns-09.net
 
 
 Uses a brute force tool to find subdomains of adlp-corp.com. How many did you find?
-Your response Your command
+![1](https://github.com/user-attachments/assets/258950a7-60a8-4be5-b8f8-0ce60e1d0ea9)
+
+![2](https://github.com/user-attachments/assets/d8a45aae-7304-4cbb-aaf9-8686e1fde809)
+
+
+![3](https://github.com/user-attachments/assets/69ea0190-a2cb-40c3-935d-ada2a9395491)
+
+
+
+
 
 Use theHarvester tool at becode.org. How many Linkedin Users?
 Your response Your command
