@@ -1,4 +1,5 @@
 What is the ip address of adlp-corp.com ?
+
 IP Address	52.51.133.160 is hosted on a dedicated server
 
 What is the TXT record of adlp-corp.com?
