@@ -9,7 +9,22 @@ BC{DESCRIPTIVE-DOMAIN-TXT}
 
 
 What are the MX records of becode.org ?
-Your response Your command
+
+
+MX Records for becode.org
+Priority	Hostname	IP Address	TTL	Provider
+1	aspmx.l.google.com	172.253.62.27	60 min	Google LLC (AS15169)
+1	aspmx.l.google.com	2607:f8b0:4004:c1b::1b	60 min	Google LLC (AS15169)
+5	alt1.aspmx.l.google.com	209.85.202.26	60 min	Google LLC (AS15169)
+5	alt1.aspmx.l.google.com	2a00:1450:400b:c00::1a	60 min	Google LLC (AS15169)
+5	alt2.aspmx.l.google.com	64.233.184.26	60 min	Google LLC (AS15169)
+5	alt2.aspmx.l.google.com	2a00:1450:400c:c0b::1a	60 min	Google LLC (AS15169)
+10	alt3.aspmx.l.google.com	142.250.27.26	60 min	Google LLC (AS15169)
+10	alt3.aspmx.l.google.com	2a00:1450:4025:401::1a	60 min	Google LLC (AS15169)
+10	alt4.aspmx.l.google.com	142.250.153.27	60 min	Google LLC (AS15169)
+10	alt4.aspmx.l.google.com	-	60 min	Google LLC (AS15169)
+
+
 
 What are the MX records of adlp-corp.com ?
 Your response Your command
