@@ -76,7 +76,9 @@ Use theHarvester tool at becode.org. How many Linkedin Users?
 Your response Your command
 
 Use theHarvester tool at becode.org. How many ip addresses did you find?
-Your response Your command
+![1](https://github.com/user-attachments/assets/f10c463a-110d-4ff0-8ef2-8d26b409ded3)
+
+
 
 Write a small script to attempt a zone transfer from adlp-corp.com using a higher-level scripting language such as Python, Perl, or Ruby
 Your Script
