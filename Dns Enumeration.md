@@ -81,7 +81,9 @@ Use theHarvester tool at becode.org. How many ip addresses did you find?
 
 
 Write a small script to attempt a zone transfer from adlp-corp.com using a higher-level scripting language such as Python, Perl, or Ruby
-Your Script
+
+![2](https://github.com/user-attachments/assets/9b6c4665-08ea-4199-9743-5e1ac69d83bf)
+
 
 Write a small script to attempt a brute force search for subdomains using a higher level scripting language such as Python, Perl or Ruby.
 Your Script
