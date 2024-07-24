@@ -44,8 +44,27 @@ What is the name of the file in testoutput?
 
 
 Do a scan with Nikto on port 80.
-Your response
-An informative file in php seems to be available, what is its name?
+ Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.12.1.40
++ Target Hostname:    10.12.1.40
++ Target Port:        80
++ Start Time:         2024-07-24 15:07:27 (GMT2)
+---------------------------------------------------------------------------
++ Server: Apache/2.2.8 (Ubuntu) DAV/2
++ /: Retrieved x-powered-by header: PHP/5.2.4-2ubuntu5.10.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /index: Uncommon header 'tcn' found, with contents: list.
++ /index: Apache mod_negotiation is enabled with MultiViews, which allows attackers to easily brute force file names. The following alternatives for 'index' were found: index.php. See: http://www.wisec.it/sectou.php?id=4698ebdc59d15,https://exchange.xforce.ibmcloud.com/vulnerabilities/8275
++ Apache/2.2.8 appears to be outdated (current is at least Apache/2.4.54). Apache 2.2.34 is the EOL for the 2.x branch.
++ /: Web Server returns a valid response with junk HTTP methods which may cause false positives.
++ /: HTTP TRACE method is active which suggests the host is vulnerable to XST. See: https://owasp.org/www-community/attacks/Cross_Site_Tracing
++ ERROR: Error limit (20) reached for host, giving up. Last error: 
++ Scan terminated: 0 error(s) and 8 item(s) reported on remote host
++ End Time:           2024-07-24 15:11:37 (GMT2) (250 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) testedAn informative file in php seems to be available, what is its name?
 
 What application has a name that starts with T and ends with Y?
 Your response
