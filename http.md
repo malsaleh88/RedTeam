@@ -80,8 +80,10 @@ What curl command can you use to see the server version?
 Server: Apache/2.2.8 (Ubuntu) DAV/2
 
 What tool for enumerating files does it do recursively? (By default)
+
 Your response
 
 What other administration application is currently also on port 80?
-Your response
+
+phpMyAdmin
 
