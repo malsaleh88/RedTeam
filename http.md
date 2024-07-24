@@ -8,6 +8,7 @@ Files: /backup, /index, /index.php, /phpMyAdmin, /phpinfo, /phpinfo.php, /server
 
 
 What is the version of apache?
+
 ──(moha㉿kali)-[~]
 └─$ curl -I 10.12.1.40
 HTTP/1.1 200 OK
