@@ -77,7 +77,7 @@ What application has a name that starts with T and ends with Y?
 Your response
 
 What curl command can you use to see the server version?
-Your response
+Server: Apache/2.2.8 (Ubuntu) DAV/2
 
 What tool for enumerating files does it do recursively? (By default)
 Your response
