@@ -64,7 +64,14 @@ Do a scan with Nikto on port 80.
 + Scan terminated: 0 error(s) and 8 item(s) reported on remote host
 + End Time:           2024-07-24 15:11:37 (GMT2) (250 seconds)
 ---------------------------------------------------------------------------
-+ 1 host(s) testedAn informative file in php seems to be available, what is its name?
++ 1 host(s) testedAn 
+
+
+informative file in php seems to be available, what is its name?
+The informative file available on the server is named phpinfo.php
+
+
+
 
 What application has a name that starts with T and ends with Y?
 Your response
