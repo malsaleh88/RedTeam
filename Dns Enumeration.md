@@ -1,63 +1,41 @@
-What is the ip address of adlp-corp.com ?
+# DNS Records and IP Information
 
-IP Address	52.51.133.160 is hosted on a dedicated server
+## IP Address of `adlp-corp.com`
+- **IP Address**: `52.51.133.160` (Hosted on a dedicated server)
 
-What is the TXT record of adlp-corp.com?
+## TXT Record of `adlp-corp.com`
+- **TXT Record**: `BC{DESCRIPTIVE-DOMAIN-TXT}`
 
+## MX Records of `becode.org`
+| Priority | Hostname                  | IP Address           | TTL    | Provider        |
+|----------|---------------------------|----------------------|--------|-----------------|
+| 1        | aspmx.l.google.com        | 172.253.62.27        | 60 min | Google LLC (AS15169) |
+| 1        | aspmx.l.google.com        | 2607:f8b0:4004:c1b::1b | 60 min | Google LLC (AS15169) |
+| 5        | alt1.aspmx.l.google.com   | 209.85.202.26        | 60 min | Google LLC (AS15169) |
+| 5        | alt1.aspmx.l.google.com   | 2a00:1450:400b:c00::1a | 60 min | Google LLC (AS15169) |
+| 5        | alt2.aspmx.l.google.com   | 64.233.184.26        | 60 min | Google LLC (AS15169) |
+| 5        | alt2.aspmx.l.google.com   | 2a00:1450:400c:c0b::1a | 60 min | Google LLC (AS15169) |
+| 10       | alt3.aspmx.l.google.com   | 142.250.27.26        | 60 min | Google LLC (AS15169) |
+| 10       | alt3.aspmx.l.google.com   | 2a00:1450:4025:401::1a | 60 min | Google LLC (AS15169) |
+| 10       | alt4.aspmx.l.google.com   | 142.250.153.27       | 60 min | Google LLC (AS15169) |
+| 10       | alt4.aspmx.l.google.com   | 2a00:1450:4013:c16::1b | 60 min | Google LLC (AS15169) |
 
-BC{DESCRIPTIVE-DOMAIN-TXT}
+## MX Records of `adlp-corp.com`
+| Priority | Hostname                  | IP Address           | TTL    | Provider        |
+|----------|---------------------------|----------------------|--------|-----------------|
+| 1        | aspmx.l.google.com        | 172.253.115.26       | 5 min  | Google LLC (AS15169) |
+| 1        | aspmx.l.google.com        | 2607:f8b0:4004:c1d::1a | 5 min  | Google LLC (AS15169) |
+| 5        | alt1.aspmx.l.google.com   | 209.85.202.26        | 5 min  | Google LLC (AS15169) |
+| 5        | alt1.aspmx.l.google.com   | 2a00:1450:400b:c00::1b | 5 min  | Google LLC (AS15169) |
+| 5        | alt2.aspmx.l.google.com   | 64.233.184.27        | 5 min  | Google LLC (AS15169) |
+| 5        | alt2.aspmx.l.google.com   | 2a00:1450:400c:c0b::1a | 5 min  | Google LLC (AS15169) |
+| 10       | alt3.aspmx.l.google.com   | 142.250.27.26        | 5 min  | Google LLC (AS15169) |
+| 10       | alt3.aspmx.l.google.com   | 2a00:1450:4025:401::1b | 5 min  | Google LLC (AS15169) |
+| 10       | alt4.aspmx.l.google.com   | 142.250.153.26       | 5 min  | Google LLC (AS15169) |
+| 10       | alt4.aspmx.l.google.com   | 2a00:1450:4013:c16::1b | 5 min  | Google LLC (AS15169) |
 
-
-What are the MX records of becode.org ?
-
-
-MX Records for becode.org
-Priority	Hostname	IP Address	TTL	Provider
-1	aspmx.l.google.com	172.253.62.27	60 min	Google LLC (AS15169)
-1	aspmx.l.google.com	2607:f8b0:4004:c1b::1b	60 min	Google LLC (AS15169)
-5	alt1.aspmx.l.google.com	209.85.202.26	60 min	Google LLC (AS15169)
-5	alt1.aspmx.l.google.com	2a00:1450:400b:c00::1a	60 min	Google LLC (AS15169)
-5	alt2.aspmx.l.google.com	64.233.184.26	60 min	Google LLC (AS15169)
-5	alt2.aspmx.l.google.com	2a00:1450:400c:c0b::1a	60 min	Google LLC (AS15169)
-10	alt3.aspmx.l.google.com	142.250.27.26	60 min	Google LLC (AS15169)
-10	alt3.aspmx.l.google.com	2a00:1450:4025:401::1a	60 min	Google LLC (AS15169)
-10	alt4.aspmx.l.google.com	142.250.153.27	60 min	Google LLC (AS15169)
-10	alt4.aspmx.l.google.com	-	60 min	Google LLC (AS15169)
-
-
-
-What are the MX records of adlp-corp.com ?
-
-
-mx:adlp-corp.com     
-Pref	Hostname	IP Address	TTL	
-1	aspmx.l.google.com	172.253.115.26
-Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
-1	aspmx.l.google.com	2607:f8b0:4004:c1d::1a	5 min	Blacklist Check
-5	alt1.aspmx.l.google.com	209.85.202.26
-Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
-5	alt1.aspmx.l.google.com	2a00:1450:400b:c00::1b	5 min	Blacklist Check
-5	alt2.aspmx.l.google.com	64.233.184.27
-Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
-5	alt2.aspmx.l.google.com	2a00:1450:400c:c0b::1a	5 min	Blacklist Check
-10	alt3.aspmx.l.google.com	142.250.27.26
-Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
-10	alt3.aspmx.l.google.com	2a00:1450:4025:401::1b	5 min	Blacklist Check
-10	alt4.aspmx.l.google.com	142.250.153.26
-Google LLC (AS15169)	5 min	Blacklist Check      SMTP Test
-10	alt4.aspmx.l.google.com	2a00:1450:4013:c16::1b	5 min	Blacklist Chec
-
-
-
-What is the first NS name server of adlp-corp.com?
-
-
-:
-
-ns-1185.awsdns-20.org
-ns-1997.awsdns-57.co.uk
-ns-269.awsdns-33.com
-ns-588.awsdns-09.net
+## First NS Name Server of `adlp-corp.com`
+- **First NS Name Server**: `ns-1185.awsdns-20.org`
 
 
 Uses a brute force tool to find subdomains of adlp-corp.com. How many did you find?
